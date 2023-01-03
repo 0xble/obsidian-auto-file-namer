@@ -4,8 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Automatically name files using GPT-3",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"author": "Brian Le",
+	"authorUrl": "https://twitter.com/0xble",
 	"isDesktopOnly": false
 }
