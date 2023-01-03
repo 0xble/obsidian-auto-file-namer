@@ -1,6 +1,6 @@
 {
-	"id": "obsidian-file-namer",
-	"name": "File Namer",
+	"id": "obsidian-auto-file-namer",
+	"name": "Automatic File Namer",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Automatically name files using GPT-3",

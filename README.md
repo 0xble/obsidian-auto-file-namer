@@ -1,4 +1,4 @@
-# Commit
+# Automatic File Namer
 
 Automatically name your files using GPT-3 based on the file's contents.
 

@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-file-namer",
+	"name": "obsidian-auto-file-namer",
 	"version": "1.0.0",
 	"description": "Automatically name files using GPT-3",
 	"main": "main.js",
